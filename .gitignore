@@ -1,0 +1,24 @@
+# AWS credentials — NEVER commit these
+*.key
+*.pem
+*.crt
+*.crt.crt
+
+# Audio training data (too large, record your own)
+*.wav
+
+# Python
+__pycache__/
+*.py[cod]
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
