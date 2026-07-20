@@ -1,5 +1,5 @@
 # WellSound — Acoustic Quality Classifier
-**End-to-end AIoT System | Columbia University APAN 5570**
+**End-to-end AIoT System **
 
 Real-time acoustic environment classifier that runs ML inference directly on M5Stack Core2 hardware, streams predictions to AWS IoT Core, and displays room status on a live Streamlit dashboard — helping students find the right space for the right moment.
 
