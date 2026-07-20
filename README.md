@@ -162,14 +162,8 @@ streamlit run wellsound_dashboard_v15_real.py
 - Use AWS IAM roles and environment variables for dashboard credentials
 - Add `*.key`, `*.crt`, `*.pem` to `.gitignore`
 
----
-
-## Team
-
-Columbia University APAN 5570 — AI of Things  
-*Group project — hardware, ML, cloud, and dashboard components developed collaboratively.*
 
 ---
 
 ## Disclaimer
-Academic project for educational purposes. Audio training data recorded in public spaces on Columbia University campus.
+Academic project for educational purposes. 
